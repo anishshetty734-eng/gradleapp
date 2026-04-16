@@ -14,5 +14,5 @@ dependencies {
 
 // ✅ FIX: correct main class
 application {
-    mainClass = 'com.example.App'
+    mainClass = 'App'
 }
